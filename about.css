@@ -1,0 +1,29 @@
+.navbar{
+  background-color: rgb(95, 95, 18);
+  padding:20px;
+}
+
+body{
+text-align: center;
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5xTT8Mbh4o8VX7Bu2jOdCIuo7maQgwandOR3j7mcGESmmq0xcOLoKw0&s=10);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.navbar a{
+
+  color:white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+*{
+  margin:0;
+  padding:0;
+}
+
+h1{
+    font-size: 70px;
+    margin-top:200px;
+    color:white;
+}

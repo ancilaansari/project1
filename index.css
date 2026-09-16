@@ -1,0 +1,36 @@
+.navbar{
+  background-color: rgb(95, 95, 18);
+  padding:20px;
+}
+
+body{
+  text-align: center;
+  background-color: yellowgreen;
+}
+
+.navbar a{
+
+  color:white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+*{
+  margin:0;
+  padding:0;
+}
+
+h1,h2{
+  color:white;
+  margin-top:40px;
+}
+
+img{
+  width:400px;
+  height:400px;
+  margin-top: 40px;
+}
+p{
+  font-size: 20px;
+  margin-top: 40px;
+}
